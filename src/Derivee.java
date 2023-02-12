@@ -6,7 +6,7 @@ public class Derivee extends Base{
 
     @Override
     public void methode1(){
-        System.out.println("");
+        System.out.println("Methode 1 de Derivee !");
     }
 
     public void methodeDerive2() {

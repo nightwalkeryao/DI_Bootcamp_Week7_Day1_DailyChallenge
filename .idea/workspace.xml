@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c61ebf3-0145-4310-a58f-a095a9c97893" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DailyChallenge.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Derivee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Derivee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Derivee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +36,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/var/www/DI-Bootcamp/Week7/Day1/DailyChallenge",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -74,6 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1675702251459</updated>
       <workItem from="1675702252674" duration="1084000" />
+      <workItem from="1676223086441" duration="61000" />
     </task>
     <servers />
   </component>
